@@ -48,11 +48,11 @@ export const siteConfig: SiteConfig = {
 	subtitle: "yhxdsy",
 
 	// 站点 URL
-	site_url: "https://11408.xyz",
+	site_url: "https://blog.114080.xyz",
 
 	// 站点描述
 	description:
-		"这是我我的第一个博客，我会在这里记录我的学习和生活。",
+		"这是我的第一个博客，我会在这里记录我的学习和生活。",
 
 	// 站点关键词
 	keywords: [
